@@ -8,5 +8,5 @@
 4.Update configuration maneger in srtc config
 5.Update the components
 6.Update pipeline
-7.Update te main.py
+7.Update main.py
 8.update the app.py
