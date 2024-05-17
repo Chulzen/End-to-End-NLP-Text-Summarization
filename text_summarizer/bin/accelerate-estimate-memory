@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/raimundoschulzehot/Documents/Raimundo/Proyectos Python/End-to-End-NLP-Text-Summarization/text_summarizer/bin/python3" "$0" "$@"
+'''exec' "/Users/raimundoschulzehot/Documents/Raimundo/Proyectos Python/End-to-End-NLP-Text-Summarization/text_summarizer/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
